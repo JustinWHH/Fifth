@@ -1,0 +1,30 @@
+.mb-10{
+	margin-bottom: 10px;
+}
+.font-18{
+	font-size: 18px;
+}
+
+.game-wrap{
+	width: 70%;
+	padding-top: 10px;
+	margin: 0 auto;
+}
+.snake-box{
+	float: left;
+	width: 80%;
+	height: 600px;
+	background-color: #CCC282;
+}
+.right-operate{
+	float: left;
+	width: 20%;
+	height: 600px;
+	padding: 20px;
+	background-color: #484742;
+}
+.right-operate .btn{
+	display: block;
+	width: 100%;
+	text-align: center; 
+}
